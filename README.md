@@ -1,4 +1,4 @@
-# IOTmidsem_LNMIIT
+# IOTmidsem_LNMIIT Q2
 Multi-Client Chat System using TCP and Multithreading
 
 This project is a simple multi-client chat application built using Python. It demonstrates how TCP sockets and multithreading work together to create a real-time communication system. Multiple clients can connect to a central server and exchange messages simultaneously.
